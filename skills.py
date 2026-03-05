@@ -1,0 +1,22 @@
+SKILLS = [
+    "python",
+    "java",
+    "c++",
+    "machine learning",
+    "deep learning",
+    "sql",
+    "docker",
+    "kubernetes",
+    "linux",
+    "git",
+    "data analysis",
+    "pandas",
+    "numpy",
+    "tensorflow",
+    "pytorch",
+    "react",
+    "nodejs",
+    "javascript",
+    "html",
+    "css"
+]
